@@ -1,5 +1,5 @@
-=== The WPAlerts WordPress Plugin ===
-Contributors: scherbakov.webstylestudio
+=== WPAlerts ===
+Contributors: webstylemedia
 Tags: wpalerts,updates,wordpress cores,themes,plugins,multi user,multiple blogs,backup,wordpress,wordpress.org
 Requires at least: 3.0
 Tested up to: 4.2.2
@@ -68,8 +68,12 @@ Absolutelly! Also you may want to use our subscription plans with extra amount o
 
 == Changelog ==
 = 0.5 =
+= 1.0 =
 
 == Upgrade Notice ==
+
+= 1.0 = 
+Stable version
 
 = 0.5 = 
 This version fixes some small bugs.
