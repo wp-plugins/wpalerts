@@ -4,12 +4,12 @@ Plugin Name: WPAlerts
 Plugin URI: http://wp-alerts.com/
 Description: WPAlerts is a free plugin that helps you to make updates on your WordPress sites (with the WPAlerts software http://wp-alerts.com/).
 Version: 1.0
-Author: Webstylemedia.com Team
-Author URI: http://www.webstylemedia.com/
+Author: OC Web Logic
+Author URI: http://www.ocweblogic.com/
 License: GPL2
 */
 /*
-Copyright 2015 Webstylemedia.com Team (email: info@webstylemedia.com)
+Copyright 2015 OC Web Logic (email: rich@ocweblogic.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
