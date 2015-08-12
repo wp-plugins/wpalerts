@@ -47,7 +47,7 @@ After adding your website you'll see the instructions of plugin setup. You will 
 The final step is press 'Refresh Website' button to sync your WordPress website with the dashboard.
 
 = Support =
-You can email us at info@webstylemedia.com for support.
+You can email us at wpalerts@webstylemedia.com for support.
 
 == Installation ==
 
